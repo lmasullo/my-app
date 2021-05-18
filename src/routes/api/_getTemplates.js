@@ -3,8 +3,7 @@ export async function get(req, res, next) {
         console.log('Getting Templates');
     
         // 8base endpoints
-        // let myEndpoint = 'https://api.8base.com/ckb9f8fky000207lb1vuoc6kv';
-        // let myToken = '6d8d2cba-7ee7-4b33-b84d-8a7ea2e4691b';
+    
     
         // const module = await import('graphql-request');
         // GraphQLClient = module.GraphQLClient;
